@@ -1,4 +1,4 @@
-package b4_inheritence;
+package b4_inheritence_multiLevel;
 
 public class MKsRahul {
 	public static void main(String[] args) {
